@@ -1,5 +1,3 @@
-# Source: http://www.awesomestats.in/spark-twitter-stream/
-
 # Loading essential libraries
 import tweepy
 from tweepy import OAuthHandler
